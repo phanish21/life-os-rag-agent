@@ -1,0 +1,8 @@
+node_modules/
+.env
+__pycache__/
+
+rag-service/chroma_data/
+life-os.db
+life-os.db-shm
+life-os.db-wal
